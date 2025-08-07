@@ -1,0 +1,1 @@
+// Data perusahaan dan perumahan akan dipisah ke file ini
